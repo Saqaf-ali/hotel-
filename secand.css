@@ -1,0 +1,28 @@
+.rrom{
+    background-color: #051441 !important;
+   color: white !important;
+   border-color: #051441 !important;
+   
+  }
+  .rrom:hover {
+    transition: all 0.3s ease-out 0s !important;
+    color: #051441 !important;
+    background-color:white !important;
+    border-color: #051441 !important;
+  }
+.inpu_id_room {
+  display: none !important;
+ background-color: red !important;
+}
+  /* rounded-pill */
+
+
+  /* #myElement {
+   
+    opacity: 0; 
+    transition: opacity 0.5s ease-in-out;
+  
+    position: fixed ;
+    top: 0;
+    z-index: 100;
+} */
